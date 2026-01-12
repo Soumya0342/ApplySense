@@ -65,6 +65,10 @@ All stored data can be removed at any time by uninstalling the extension or clea
 Privacy policy:
 https://soumy0342.github.io/ApplySense/privacy-policy.html
 
+Chrome web store installation - 
+https://chromewebstore.google.com/detail/pdjocfodccicgbfmnaoioikmicleoddf?utm_source=item-share-cb
+just add the extension, open linkedin job page in PC, and apply, you will see how it works!
+
 Manual installation (offline / pre–Chrome Web Store)
 
 If the extension is not yet available on the Chrome Web Store, you can install ApplySense manually using the source code. This method works fully offline.
